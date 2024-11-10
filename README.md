@@ -72,17 +72,6 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | [Aider Coding](https://aider.chat/leaderboard) | Interactive coding assistance | Monthly |
 | [Can AI Code](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) | Code generation evaluation across multiple tasks | Monthly |
 | [ProLLM Coding Assistant](https://prollm.toqan.ai/leaderboard/coding-assistant) | Stack Overflow based evaluation, 925 samples across languages | Monthly |
-
-<br>
-
-## Code Generation
-
-| Leaderboard | Description | Update Frequency |
-|-------------|-------------|------------------|
-| [Big Code Models](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) | Code generation and completion | Monthly |
-| [Aider Coding](https://aider.chat/leaderboard) | Interactive coding assistance | Monthly |
-| [Can AI Code](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) | Code generation evaluation across multiple tasks | Monthly |
-| [ProLLM Coding Assistant](https://prollm.toqan.ai/leaderboard/coding-assistant) | Stack Overflow based evaluation, 925 samples across languages | Monthly |
 | [Text2SQL](https://openlm.ai/text2sql-leaderboard/) | Natural language to SQL query generation | Monthly |
 
 <br>
