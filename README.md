@@ -26,7 +26,6 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | [OpenRouter Rankings](https://openrouter.ai/rankings) | Category-specific performance across domains (Roleplay, Programming, Marketing, Legal, etc.) | Daily |
 | [HELM](https://crfm.stanford.edu/helm) | Holistic evaluation across multiple scenarios and tasks | Monthly |
 | [OpenCompass](https://opencompass.org.cn/home) | Multiple benchmarks and API evaluation | Monthly |
-| [Artificial Analysis](https://artificialanalysis.ai) | Quality, speed, latency, and pricing metrics | Daily |
 | [Klu.ai](https://klu.ai/llm-leaderboard) | Comprehensive use case performance evaluation | Monthly |
 | [MMLU by Task](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard) | Detailed MMLU performance breakdown by subject | Monthly |
 | [Olympic Arena](https://gair-nlp.github.io/OlympicArena/) | Comprehensive evaluation across disciplines | Monthly |
@@ -88,7 +87,6 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 ## Multimodal
 | Leaderboard | Description | Update Frequency |
 |-------------|-------------|------------------|
-| [OpenVLM](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) | Vision-language model evaluation | Monthly |
 | [OpenVLM](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) | Vision-language model evaluation | Monthly |
 | [Vidore](https://huggingface.co/spaces/vidore/vidore-leaderboard) | Video understanding and description | Monthly |
 | [Vision Arena](https://huggingface.co/spaces/WildVision/vision-arena) | Side-by-side VLM comparison | Weekly |
