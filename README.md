@@ -72,6 +72,7 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | [Can AI Code](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results) | Code generation evaluation across multiple tasks | Monthly |
 | [ProLLM Coding Assistant](https://prollm.toqan.ai/leaderboard/coding-assistant) | Stack Overflow based evaluation, 925 samples across languages | Monthly |
 | [Text2SQL](https://openlm.ai/text2sql-leaderboard/) | Natural language to SQL query generation | Monthly |
+| [SWE-bench](https://www.swebench.com/) | Real-world GitHub issue resolution (2,294 Issue-PR pairs), includes Verified (500) and Lite (300) tracks | 
 
 <br>
 
