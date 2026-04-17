@@ -61,6 +61,7 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | [Open Medical LLM](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard) | Medical knowledge and reasoning | Monthly |
 | [Trustbit LLM](https://trustbit.tech/llm-benchmarks) | Business applications and CRM. (You need to scroll down link for each month) | Monthly |
 | [SEAL](https://scale.com/leaderboard) | Safety and alignment evaluation | Monthly |
+| [SecLens](https://github.com/mattersec-labs/seclens) | Security vulnerability detection using 406 real CVE tasks across 5 role-specific leaderboards ([paper](https://arxiv.org/abs/2604.01637)) | Monthly |
 
 <br>
 
