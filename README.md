@@ -24,6 +24,7 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 |-------------|-------------|------------------|
 | [HuggingFace Open LLM](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Comprehensive evaluation using ARC, HellaSwag, MMLU, TruthfulQA | Continuous |
 | [OpenRouter Rankings](https://openrouter.ai/rankings) | Category-specific performance across domains (Roleplay, Programming, Marketing, Legal, etc.) | Daily |
+| [AI Model Index](https://aimodelsindex.com/) | Reconciles multiple source leaderboards into auditable model indexes with coverage, confidence, and source-level evidence | Varies by source |
 | [LiveBench](https://livebench.ai) | Contamination-free benchmark covering math, coding, reasoning, language, and instruction following tasks | Monthly |
 | [HELM](https://crfm.stanford.edu/helm) | Holistic evaluation across multiple scenarios and tasks | Monthly |
 | [OpenCompass](https://opencompass.org.cn/home) | Multiple benchmarks and API evaluation | Monthly |
