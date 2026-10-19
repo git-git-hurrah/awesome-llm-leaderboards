@@ -75,6 +75,7 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | [ProLLM Coding Assistant](https://prollm.toqan.ai/leaderboard/coding-assistant) | Stack Overflow based evaluation, 925 samples across languages | Monthly |
 | [Text2SQL](https://openlm.ai/text2sql-leaderboard/) | Natural language to SQL query generation | Monthly |
 | [SWE-bench](https://www.swebench.com/) | Real-world GitHub issue resolution (2,294 Issue-PR pairs), includes Verified (500) and Lite (300) tracks | 
+| [aivs.tv](https://aivs.tv/coding/) | Side-by-side outputs of coding models given the same prompt (games, three.js, web UI, SVG), collected from posts on X | Daily |
 
 <br>
 
