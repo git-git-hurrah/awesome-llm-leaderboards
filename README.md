@@ -51,6 +51,7 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | [Berkeley Function-Calling](https://gorilla.cs.berkeley.edu/leaderboard) | Tool use and function calling capabilities | Monthly |
 | [Vectara Hallucination](https://github.com/vectara/hallucination-leaderboard) | Factual consistency and hallucination detection | Monthly |
 | [UGI](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard) | Uncensored general intelligence metrics | Monthly |
+| [Spicy Lab](https://spicyapi.app) | Independent NSFW AI image, video, and chat model comparison with side-by-side runs and published methodology (not a generator) | Continuous |
 
 <br>
 
