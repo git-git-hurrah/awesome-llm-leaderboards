@@ -32,6 +32,7 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | [Olympic Arena](https://gair-nlp.github.io/OlympicArena/) | Comprehensive evaluation across disciplines | Monthly |
 
 <br>
+| [Highworth AI](https://highworth.ai/) | Community "worth it" scores for 60+ AI models, aggregated from verified user reviews on Hacker News, Reddit, V2EX and Bilibili | Weekly |
 
 ## Conversational AI
 
