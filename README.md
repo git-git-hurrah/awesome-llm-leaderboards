@@ -30,6 +30,7 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | [Klu.ai](https://klu.ai/llm-leaderboard) | Comprehensive use case performance evaluation | Monthly |
 | [MMLU by Task](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard) | Detailed MMLU performance breakdown by subject | Monthly |
 | [Olympic Arena](https://gair-nlp.github.io/OlympicArena/) | Comprehensive evaluation across disciplines | Monthly |
+| [Highworth AI](https://highworth.ai/) | Community "worth it" scores for 60+ AI models, aggregated from verified user reviews on Hacker News, Reddit, V2EX and Bilibili | Weekly |
 
 <br>
 
