@@ -113,6 +113,7 @@ A curated list of leaderboards for evaluating Large Language Models (LLMs), orga
 | Leaderboard | Description | Update Frequency |
 |-------------|-------------|------------------|
 | [X-WebArena-Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?gid=2044883967#gid=2044883967) | Agents Web navigation and interaction evaluation | Monthly |
+| [ITSMBench](https://www.atomicwork.com/itsm-bench) | IT service-management agents on 89 tickets in mock ServiceNow, Okta, Slack and Google Workspace environments, checked by hidden verifiers ([GitHub](https://github.com/new-measure/ITSMBench)) | On new model releases |
 
 <br>
 
